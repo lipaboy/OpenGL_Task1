@@ -1,0 +1,7 @@
+**/*.autosave
+**/build*
+**/*.pro.user
+**/*.sdf
+**/*.suo
+**/*.filters
+**/*.opensdf
